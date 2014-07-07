@@ -1,0 +1,195 @@
+.baslik{
+    background-color: white;
+    width:150px;
+    height:80px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.logo{
+    position: relative;
+    left: 170px;
+    top: -30px;
+    width:1px;
+    height:1px;
+    padding:2px;
+}
+.sign{
+    position : relative;
+    right:120px;
+    top:-48px;
+   -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    float:right;
+    border-style: solid;
+    border-size: 10px;
+    border-color: grey;
+}
+#btnbir{
+    display:none;
+}
+#btniki{
+    margin-left:5px;
+}
+.aramamenu{
+    position:relative;
+    top:-90px;
+    left:320px;
+    width:770px;
+    height:80px;
+    background-color: white;
+}
+.menu{
+    position: relative;
+    left:440px;
+    top: 10px;
+    width:400px;
+    height: 50px;
+    font-size: 24px;
+}
+.menu>li {
+    float: left;
+    width: 25%;
+}
+.menu>li>a {
+    display: block;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #333333;
+}
+.search{
+    position:relative;
+    top: -64px;
+    left:35px;
+}
+.body{
+    position: relative;
+    top:-120px;
+    left:40px;
+    background-color: black;
+    width:1240px;
+    height: 400px;
+}
+.baslik2{
+    position:relative;
+    background-color: black;
+    width:500px;
+    left:150px;
+    top:40px;
+}
+.unemp{
+    position: relative;
+    background-color: black;
+    left:800px;
+    top:-200px;
+    width:20px;
+}
+#p{
+    color:white;
+    width:1000px; ;
+}
+#buton{
+    position: relative;
+    left:40px;
+}
+#p2{
+    color:white;
+    width:1000px; ;
+}
+#p3{
+    color:white;
+    width:1000px; ;
+}
+.baslik3{
+    position:relative;
+    width:800px;
+    left:35%;
+    top:-90px;
+    font-size: 28px;
+}
+#p4{
+    position: relative;
+    width:1000px;
+    left:-100px;
+}
+.stn1{
+    position:relative;
+    left:15%;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+}
+#img1{
+    position: relative;
+    weight:50px;
+    height: 50px;
+    left: 140px;
+}
+#p6{
+    left:200px;
+}
+.stn2{
+    position:relative;
+    left:55%;
+    top:-180px;
+    padding-left:100px;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: black;
+}
+#img2{
+    position: relative;
+    weight:50px;
+    height: 50px;
+    left: 140px;
+}
+#img3{
+    position: relative;
+    weight:50px;
+    height: 50px;
+    left: 140px;
+}
+.stn3{
+    position:relative;
+    left:15%;
+    top:-100px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+}
+#img4{
+    position: relative;
+    background-color: grey;
+    weight:50px;
+    height: 50px;
+    left: 140px;
+    border-bottom: 1px;
+    border-bottom-color: darkgray;
+    border-right: 1px;
+    border-right-color: darkgray;
+}
+.stn4{
+    position:relative;
+    left:55%;
+    top:-290px;
+    padding-left:100px;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: black;
+}
+.body3{
+    position: relative;
+    text-align: center;
+    font-size: 24px;
+    top:-150px;
+}
+#btnid{
+    position: relative;
+    background-color: limegreen;
+    width: 250px;
+}
+
+#btnwl2{
+    position: relative;
+    background-color: mediumslateblue;
+    width: 250px;
+}
